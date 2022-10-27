@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   test:
   - apiVersion: v2
+    appVersion: 0.1.6
+    created: "2022-10-27T03:50:56.987618763Z"
+    description: A Helm chart for Kubernetes
+    digest: f77c30d4270b306e6fea6e4adb2023e77d0d96aa9a021ca22595a37689e11a50
+    name: test
+    type: application
+    urls:
+    - https://github.com/inksnw/mychart/releases/download/test-0.1.6/test-0.1.6.tgz
+    version: 0.1.6
+  - apiVersion: v2
     appVersion: 0.1.5
     created: "2022-10-27T03:45:49.040595981Z"
     description: A Helm chart for Kubernetes
